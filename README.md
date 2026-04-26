@@ -1,15 +1,8 @@
-# 💬 Whop – Real-Time Messenger Platform
+Real-Time Messenger Platform
 
-> This codebase is licensed for **commercial use only with a paid license** Plus **Full Source with Whop AI Integration**.
-> It’s \*\*free for personal use\*\*.
-> 👉 [Get a Commercial License + Full Code](https://techwithemma.gumroad.com/l/puvbkz)
-> 👉 [Read License Terms](https://github.com/TechWithEmmaYT/MERN-RealTime-Messagers-Platform/blob/main/TECHWITHEMMA-LICENSE.md)
 
----
-## 🤖 Get the Full Source code (Whop AI Code Included)
 
 This GitHub code includes only the core real-time messenger platform.
-To add **AI-powered conversations** (like Meta AI in Messenger), get the **Whop AI Source code**.
 
 - 📡 Real-time streaming via WebSocket
 - 🧠 Context-aware AI chat replies
